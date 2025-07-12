@@ -38,7 +38,7 @@ Key content is the password of your target SSID.
 
 <br>
 <hr>
-⚠️ <b>DISCLAIMER</b>
+⚠️ <b>DISCLAIMER:</b><br>
 This tool is intended strictly for educational use, cybersecurity training, and authorized penetration testing only.
 
 By using this script, you agree to the following:
