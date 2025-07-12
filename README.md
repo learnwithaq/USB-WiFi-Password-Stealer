@@ -34,7 +34,9 @@ SSID: HomeNetwork<br>
 SSID: OfficeNet<br>
 33:     Key Content            : office@1234<br>
 <br>
-# Key content is the password of your target SSID.
+Key content is the password of your target SSID.
+
+<br>
 <hr>
 ⚠️ <b>DISCLAIMER</b>
 This tool is intended strictly for educational use, cybersecurity training, and authorized penetration testing only.
