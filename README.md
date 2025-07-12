@@ -28,12 +28,12 @@ Note: You may need administrative rights to access some network profiles.
 
 📂 <b>Output Example (creds.txt)</b>
 
-SSID: HomeNetwork
-33:     Key Content            : supersecurepassword
-
-SSID: OfficeNet
-33:     Key Content            : office@1234
-
+SSID: HomeNetwork<br>
+33:     Key Content            : supersecurepassword<br>
+<br>
+SSID: OfficeNet<br>
+33:     Key Content            : office@1234<br>
+<br>
 # Key content is the password of your target SSID.
 <hr>
 ⚠️ <b>DISCLAIMER</b>
